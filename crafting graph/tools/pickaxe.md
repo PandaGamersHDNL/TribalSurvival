@@ -1,0 +1,1 @@
+only for soft rocks at the start

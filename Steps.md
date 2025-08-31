@@ -1,0 +1,5 @@
+- [ ] movement
+- [ ] starter map (static)
+- [ ] sticks
+- [ ] interactions
+- [ ] 

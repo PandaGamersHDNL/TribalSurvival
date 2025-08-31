@@ -1,0 +1,1 @@
+[[pickaxe]] the boulder to collect [[Rocks]]

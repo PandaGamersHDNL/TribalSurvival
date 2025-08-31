@@ -1,3 +1,6 @@
-Start with a couple slots, when backpack is equipped more slot but maybe this is based on weight instead of slots
+no inventory only things in your hands
+how to fill a bucket use your hands/shovel to scoop it into a bucket
+place down the bucket when full pick up the bucket and move it
+at the start a bucket does not exist so you will have to do multiple trips
 
-This would mean we need to give every object mass.
+possible you can scoop with the bucket 

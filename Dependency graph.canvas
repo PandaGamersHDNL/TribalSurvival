@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9dfc279db25968a8","type":"file","file":"Gathering/Collected/Rocks.md","x":202,"y":-356,"width":158,"height":50},
+		{"id":"c46a78a9d62ab0c1","type":"file","file":"Gathering/Collected/Sticks.md","x":-340,"y":-356,"width":148,"height":50},
+		{"id":"12c194f7fd62ff4b","x":-65,"y":-356,"width":138,"height":50,"type":"file","file":"Gathering/Collected/Vine.md"},
+		{"id":"3cbb5c606236d4a2","type":"file","file":"crafting graph/tools/axe.md","x":-58,"y":-200,"width":125,"height":50}
+	],
+	"edges":[
+		{"id":"824e9646fa7c57e8","fromNode":"c46a78a9d62ab0c1","fromSide":"bottom","toNode":"3cbb5c606236d4a2","toSide":"left"},
+		{"id":"b5231fc04abd46f5","fromNode":"9dfc279db25968a8","fromSide":"bottom","toNode":"3cbb5c606236d4a2","toSide":"right"},
+		{"id":"41ae878815ace7ca","fromNode":"12c194f7fd62ff4b","fromSide":"bottom","toNode":"3cbb5c606236d4a2","toSide":"top"}
+	]
+}

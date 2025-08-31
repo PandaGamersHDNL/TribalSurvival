@@ -1,0 +1,2 @@
+buckets generally contain things, some buckets can contain more things than others 
+for example a wooden bucket can contain rocks and mud but not water if it's a crude bucket while a fired pot can contain water but it leaks a little bit.
